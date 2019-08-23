@@ -14,7 +14,7 @@ from employees
 where employee_id in (100,110,120,125);
 
 데이터값의 존재유무를 판단할 연산자
-is not null / is nullwq
+is not null / is null
 
 null : 비교불가, 산술연산불가
 부서배치 받지 않은 사원들의 사번, 성, 부서코드 조회
